@@ -1,3 +1,4 @@
 # ilham-resolusi
 repository untuk rencana saya kedepannya
 membuat website full stack
+menguasai js
