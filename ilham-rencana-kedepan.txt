@@ -1,8 +1,8 @@
 rencana saya
 mau mempelajari js
-mempelajari php
-frame work database
-mempelajari syntax js yang baru
+agular
+reacth
 frame work js
+laravel
 database
 frame work js
