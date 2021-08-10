@@ -1,8 +1,8 @@
 rencana saya
 mau mempelajari js
-mempelajari php 
 agular
 reacth
 frame work js
 laravel
 database
+frame work js
